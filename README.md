@@ -1,4 +1,9 @@
-[Team_1](https://github.com/Yedam101/Mulcam-Study/blob/master/Team_1.md)
+[팀노션](https://www.notion.so/Team-1-dbb39f0dc688498596ea69ba19b258b5)  
+  
+[프로그래머스 문제](https://school.programmers.co.kr/learn/challenges?page=1&languages=python3&partIds=31236%2C25448%2C21366%2C20069%2C17214%2C12286%2C9317%2C22586%2C18498%2C17931%2C300%2C301%2C23708%2C21163%2C18952%2C17615%2C6174%2C6173%2C22941)
+
+-----------------     
+
 
 [김예담](https://github.com/Yedam101/Mulcam-Study/tree/master/yedam101)  
 
@@ -8,11 +13,3 @@
 
 
 
-
-
-
-
-
-
------------------------------
-[알고리즘 문제모음](https://github.com/Yedam101/Mulcam-Study/tree/master/yedam101/algorithm)
