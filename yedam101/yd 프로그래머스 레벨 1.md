@@ -105,8 +105,6 @@ def solution(numbers):
 
 ```
 
-```
-
 ### 실패율
 ```python
 
